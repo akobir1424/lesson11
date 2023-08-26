@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+div{
+    border: 1px solid rgb(9, 8, 8);
+    width: 400px;  
+    line-height: 50px;
+    border-radius: 30px;
+    margin: 300px auto;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+input{
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+}

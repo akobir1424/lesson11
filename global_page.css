@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    border: var(--border);
+}
+header{
+    width: 100%;
+    border: var(--border);
+    display: flex;
+    justify-content: center;
+}
+nav{
+    width: 88%;
+    border: var(--border);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    background: rgb(169, 169, 169);
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid;
+    font-size: 17px;
+}
